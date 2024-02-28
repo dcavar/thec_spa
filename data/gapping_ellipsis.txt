@@ -1,0 +1,201 @@
+# gapping_ellipsis.txt
+# (C) 2023 by Shane Sparks <sparkssh@iu.edu>, Luis Abrego <labrego@iu.edu>, Calvin Josenhans <cjosenha@iu.edu>
+# language: esp
+# Notes:
+# These are all grammatical examples. The elided positions are indicated by ___.
+
+Ana comió pizza, pero no sé si Bruno ___ también.
+----
+Ana comió pizza, pero no sé si Bruno comió pizza también.
+# Laura Stigliano: https://knowledge.uchicago.edu/record/4790?ln=en
+
+Ana comió pizza, pero no sé si pasta ___ también.
+----
+Ana comió pizza, pero no sé si pasta comió también.
+# Laura Stigliano: https://knowledge.uchicago.edu/record/4790?ln=en
+
+Sonia le dio una pizza a Luciano pero Bruno no sé si ___ a Danilo.
+----
+Sonia le dio una pizza a Luciano pero Bruno no sé si le dio una pizza a Danilo.
+# Laura Stigliano: https://knowledge.uchicago.edu/record/4790?ln=en
+
+Sonia habló con Luciano, pero no sé si ___ con Bruno también.
+----
+Sonia habló con Luciano, pero no sé si habló con Bruno también.
+# Laura Stigliano: https://knowledge.uchicago.edu/record/4790?ln=en
+
+El periódico Juan lo compró, y la revista Luis ___.
+----
+El periódico Juan lo compró, y la revista Luis la compró.
+# Source: https://www.glossa-journal.org/article/id/7993/
+# Translation eng: Juan bought the newspaper, and Luis (bought) the magazine.
+
+En el bar, Pablo pidió una cerveza y Juan ___ un whisky.
+----
+En el bar, Pablo pidió una cerveza y Juan pidió un whisky.
+#Source:https://www.colorado.edu/event/cuny2019/sites/default/files/attached-files/b56_bilbiie_etal.pdf
+#Translation: At the bar, Pablo ordered a beer and Juan (ordered) a whiskey
+
+Mi madre tomó un té, y creo que mi padre ___ un café
+----
+Mi madre tomó un té, y creo que mi padre tomó un café
+#Source: Jung, W., (2022) “Phasehood and embedded gapping in Spanish”, Glossa: a journal of general linguistics 7(1). doi: https://doi.org/10.16995/glossa.7993
+#Translation: My mother drank a tea and I think that my father (drank) a coffee. 
+
+Juan le dio a Susana unas flores, y crea que Luis ___ a María unos libros. 
+----
+Juan le dio a Susana unas flores, y crea que Luis le dio a María unos libros. 
+#Source: Jung, W., (2022) “Phasehood and embedded gapping in Spanish”, Glossa: a journal of general linguistics 7(1). doi: https://doi.org/10.16995/glossa.7993
+#Translation: Juan gave Susana some flowers, and he believed that Luis (gave) María some books.
+
+Ana lo contractó a Juan y Paula ___ a Pedro 
+----
+Ana lo contractó a Juan y Paula lo contractó a Pedro 
+#Source: Jung, W., (2022) “Phasehood and embedded gapping in Spanish”, Glossa: a journal of general linguistics 7(1). doi: https://doi.org/10.16995/glossa.7993
+#Translation: Ana hired Juan and Paula (hired) Pedro
+
+José está en el mercado, y yo ___ en la casa
+----
+José está en el mercado, y yo estoy en la casa
+# Wikipedia: https://es.wikipedia.org/wiki/Elipsis_(ling%C3%BC%C3%ADstica)
+# Translation eng: José is in the market and I (am) in the house.
+
+Juan compró un libro, y Maria ___ un disco.
+----
+Juan compró un libro, y Maria compró un disco.
+# Source: https://onlinelibrary.wiley.com/doi/pdf/10.1111/stul.12204
+# Translation eng: Juan bought a book, and Maria (bought) a disk.
+
+Juan siempre pide vino, y Maria ___ cerveza.
+----
+Juan siempre pide vino, y Maria simpre pido cerveza.
+# Source: https://onlinelibrary.wiley.com/doi/pdf/10.1111/stul.12204
+# Translation eng: Juan always orders wine, and Maria (always orders) beer.
+
+Juan puede ir conmigo, y Maria ___ contigo.
+----
+Juan puede ir conmigo, y Maria puede ir contigo.
+# Source: https://onlinelibrary.wiley.com/doi/pdf/10.1111/stul.12204
+# Translation eng: Juan can go with me, and Maria (can go) with you.
+
+Los libros los compré yo, y los discos ___ mi hermano.
+----
+Los libros los compré yo, y los discos los compré mi hermano.
+# Source: https://onlinelibrary.wiley.com/doi/pdf/10.1111/stul.12204
+# Translation eng: The books, I bought them, and the disks, my brother (bought them).
+
+Luis enseña gramática a Alejandro, y María, ___ a Luis.
+----
+Luis enseña gramática a Alejandro, y María enseña gramática a Luis.
+# Source: https://onlinelibrary.wiley.com/doi/pdf/10.1111/stul.12204
+# Translation eng: Luis teaches grammar to Alejandro, and Maria (teachers grammar) to Luis.
+
+Pedro tiene dos hermanas, y Luis ___ ningún hermano.
+----
+Pedro tiene dos hermanas, y Luis no tiene ningún hermano.
+# Source: https://onlinelibrary.wiley.com/doi/pdf/10.1111/stul.12204
+# Translation eng: Pedro has two brothers, and Luis (doesn't have) any brothers.
+
+El año pasado yo viví en España, y ___ Pedro ___ en Italia. 
+----
+El año pasado yo viví en España, y el año pasado Pedro vivió en Italia. 
+# Calvin Josenhans
+# translation eng: Last year I lived in Spain, and (last year) Pedro (lived) in Italy.
+
+Manuel vino en automóvil, Miguel ___ en bicicleta.
+----
+Manuel vino en automóvil, Miguel vino en bicicleta.
+# Source: https://concepto.de/elipsis/
+# translation eng: Manuel came by car, Miguel (came) by bicycle.
+
+El año pasado llovió muchísimo, en cambio este año no ___ tanto.
+----
+El año pasado llovió muchísimo, en cambio este año no llovió tanto.
+# Source; https://concepto.de/elipsis/
+# translation eng: Last year it rained a lot, but this year it didn't (rain) as much.
+
+Las rosas son rojas, el cielo ___ azul.
+----
+Las rosas son rojas, el cielo es azul.
+# Source: https://concepto.de/elipsis/
+# translation eng: The roses are red, the sky (is) blue.
+
+Nosotros traeremos el vino, ustedes ___ el pan, Carlos ___ la mesa.
+----
+Nosotros traeremos el vino, ustedes traerán el pan, Carlos traerá la mesa.
+# Source: https://concepto.de/elipsis/ (Modified)
+# translation eng: We will bring the wine, you (will bring) the bread, Carlos (will bring) the table.
+
+Algunos alumnos decidieron no ir a clase como protesta, pero otros ___, por pereza.
+----
+Algunos alumnos decidieron no ir a clase como protesta, pero otros decidieron no ir a clase, por pereza.
+# Source: https://languagetool.org/insights/es/publicacion/elipsis-definicion-y-ejemplos/
+# translation eng: Some students decided not to go to class in protest, but others (decidied not to go to class) out of laziness.
+
+Damián trabajó dos años en Canadá y Pedro ___ cinco ___.
+----
+Damián trabajó dos años en Canadá y Pedro trabajó cinco años en Canadá.
+# Calvin Josenhans
+# translation eng: Damián worked in Canada for two years, and Pedro (worked in Canada for) five (years).
+
+Pedro está harto de su jefe y María ___ de todos sus empleados.
+----
+Pedro está harto de su jefe y María está harta de todos sus empleados.
+# Source: https://riuma.uma.es/xmlui/bitstream/handle/10630/5130/TDR_GARCIA_RODRIGUEZ.pdf?sequence=1
+
+Luis cuida a su madre mucho mejor que Antonia ___ a la suya.
+----
+Luis cuida a su madre mucho mejor que Antonia cuida a la suya.
+# Source: https://riuma.uma.es/xmlui/bitstream/handle/10630/5130/TDR_GARCIA_RODRIGUEZ.pdf?sequence=1
+# translation eng: Luis takes care of his mother much better than Antonia (takes care of hers).
+
+Yo creo que Sam hornea las mejores galletas y Mary ___ que Reece ___ las peores ___.
+----
+Yo creo que Sam hornea las mejores galletas y Mary cree que Reece hornea las peores galletas.
+# Calvin Josenhans
+
+Juan comió las ostras y creo ___ María ___ el pez espada.
+----
+Juan comió las ostras y creo que María comió el pez espada. 
+#Source: Jung, Wonsuk. (2022). Phasehood and embedded gapping in Spanish. Glossa: a journal of general linguistics. 7. 10.16995/glossa.7993. 
+#Translation: Juan ate the oysters and I think that María (ate) the swordfish.
+
+El lideró la estructura estatal empleada en la comisión de crímenes de guerra y ___ lesa humanidad.
+----
+El lideró la estructura estatal empleada en la comisión de crímenes de guerra y crímenes de lesa humanidad.
+# Source: https://elpais.com/america-colombia/2023-11-09/alvaro-uribe-denunciado-ante-la-justicia-argentina-por-los-falsos-positivos.html
+
+Ganó poco en su vida, pero fue feliz ___.
+----
+Ganó poco en su vida, pero fue feliz en su vida.
+# Source: https://zenodo.org/records/3547446
+
+Cuantas más cosas quiere, ___ menos ___ logra.
+----
+Cuantas más cosas quiere, cuantas menos cosas logra.
+# Source: https://zenodo.org/records/3547446
+
+Mañana tú irás a pasear en bicicleta. Yo, ___ al cine.
+----
+Mañana tú irás a pasear en bicicleta. Yo, iré a pasear al cine.
+# https://www.spanishpodcast.net/how-to-use-the-ellipsis-in-spanish/
+
+Los niños comieron albóndigas. Los adultos, ___ pescado.
+----
+Los niños comieron albóndigas. Los adultos, comieron pescado.
+# https://www.spanishpodcast.net/how-to-use-the-ellipsis-in-spanish/
+
+Este grupo jugará al fútbol. Aquel ___ al baloncesto
+----
+Este grupo jugará al fútbol. Aquel grupo jugará al baloncesto
+# https://www.spanishpodcast.net/how-to-use-the-ellipsis-in-spanish/
+
+Mi padre se comió tres manzanas. Yo ___ dos naranjas.
+----
+Mi padre se comió tres manzanas. Yo comí dos naranjas.
+# https://www.spanishpodcast.net/how-to-use-the-ellipsis-in-spanish/
+
+Carlos ve una película. Yo ___ un documental
+----
+Carlos ve una película. Yo veo un documental
+# https://www.spanishpodcast.net/how-to-use-the-ellipsis-in-spanish/

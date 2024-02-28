@@ -1,0 +1,80 @@
+# VP_ellipsis.txt
+# (C) 2023 by Shane Sparks <sparkssh@iu.edu>, Calvin Josenhans <cjosenha@iu.edu>
+# language: esp
+# Notes:
+# These are all grammatical examples. The elided positions are indicated by ___.
+
+Ella jugaba futbol, y yo también ___.
+----
+Ella jugaba futbol, y yo también jugaba futbol.
+# Calvin Josenhans
+# Translation eng: She played football, and I did (play football) too.
+
+Tom pudo ver a Lee, pero Maria no pudo ___.
+----
+Tom pudo ver a Lee, pero Maria no pudo ver a Lee.
+# Source: https://univ-tlse2.hal.science/hal-00881807/document
+# Translation eng: Tom could see Lee but Maria couldn't (see Lee).
+
+Juan leyó Guerra y Paz pero creo que Pedro no ___.
+----
+Juan leyó Guerra y Paz pero creo que Pedro no leyó Guerra y Paz.
+# Source: https://www.degruyter.com/document/doi/10.1515/prbs.1999.11.2.263/pdf
+# Translation eng: Juan read War and Peace, but I think that Pedro did not (read War and Peace).
+
+Susana no leyó Guerra y Paz pero María sí ___.
+----
+Susana no leyó Guerra y Paz pero María sí leyó Guerra y Paz.
+# Source: https://www.degruyter.com/document/doi/10.1515/prbs.1999.11.2.263/pdf
+# Translation eng: Susana did not read War and Peace, but Maria did (read War and Peace).
+
+Por la manaña podría ir de compras, pero por la tarde no ___.
+----
+Por la manaña podría ir de compras, pero por la tarde no podría ir de compras.
+# Source: https://www.degruyter.com/document/doi/10.1515/prbs.1999.11.2.263/pdf
+# Translation eng: I could go shopping in the morning, but in the afternoon I could not (go shopping).
+
+Susana no leyó Guerra y Paz y María tampoco ___.
+----
+Susana no leyó Guerra y Paz y María tampoco leyó Guerra y Paz.
+# Source: https://www.degruyter.com/document/doi/10.1515/prbs.1999.11.2.263/pdf
+# translation eng: Susana didn't read war and peace, and Maria (didn't read war and peace) either.
+
+Yo no hice la tarea y Juan tampoco ___.
+----
+Yo no hice la tarea y Juan tampoco hizo la tarea.
+# Calvin Josenhans
+# Translation eng: I did not do the homework, and John didn't (do the homework) either.
+
+Mi jefe me iba a despedir, pero no se atrevió ___.
+----
+Mi jefe me iba a despedir, pero no se atrevió despedirme.
+# Source: https://riuma.uma.es/xmlui/bitstream/handle/10630/5130/TDR_GARCIA_RODRIGUEZ.pdf?sequence=1
+# translation eng: My boss was going to fire me, but he didn't dare (to fire me).
+
+Si quieres ___, te ayudo.
+----
+Si quieres que te ayude, te ayudo.
+# Source: https://riuma.uma.es/xmlui/bitstream/handle/10630/5130/TDR_GARCIA_RODRIGUEZ.pdf?sequence=1
+# translation eng: If you want (me to help you), I will help you.
+
+Bolivia exige “el cese de los ataques que han provocado hasta ahora miles de muertes civiles y el desplazamiento forzado de palestinos” y también ___ “el cese del bloqueo que impide la entrada de alimentos y agua” a la Franja.
+----
+Bolivia exige “el cese de los ataques que han provocado hasta ahora miles de muertes civiles y el desplazamiento forzado de palestinos” y también exige “el cese del bloqueo que impide la entrada de alimentos y agua” a la Franja.
+# Source: https://elpais.com/internacional/2023-11-01/bolivia-rompe-relaciones-diplomaticas-con-israel-por-la-ofensiva-en-gaza.html
+
+Esté en la boca de la gente, ___ en el chiste, ___ en el meme"
+----
+Esté en la boca de la gente, esté en el chiste, esté en el meme"
+# Source: https://www.bbc.com/mundo/articles/c2l38zg0xjdo
+
+La yegua se marchó mucho antes que el potro ___.
+----
+La yegua se marchó mucho antes que el potro se marchó.
+# Source: https://zenodo.org/records/3547446
+
+Laura me sonrió. A Jorge no ___.
+----
+Laura me sonrió. A Jorge no le sonrió.
+# https://www.spanishpodcast.net/how-to-use-the-ellipsis-in-spanish/
+

@@ -1,0 +1,20 @@
+# pseudostripping_ellipsis.txt
+# (C) 2023 by Shane Sparks <sparkssh@iu.edu>
+# language: esp
+# Notes:
+# These are all grammatical examples. The elided positions are indicated by ___.
+
+Sonia leyó El Aleph, pero Ficciones no ___.
+----
+Sonia leyó El Aleph, pero Ficciones no leyó.
+# Laura Stigliano: https://bpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/5/1040/files/2021/10/Laura_Stigliano_NLLT_Manuscript_Oct18.pdf
+
+Sonia habló con Bruno, pero Luciano no ___.
+----
+Sonia habló con Bruno, pero Luciano no es con quien habló.
+# Laura Stigliano: https://bpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/5/1040/files/2021/10/Laura_Stigliano_NLLT_Manuscript_Oct18.pdf
+
+Mauricio escribe artículos para La Nación, no ___ para Clarín.
+----
+Mauricio escribe artículos para La Nación, no escribe artículos para Clarín.
+# Laura Stigliano: https://bpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/5/1040/files/2021/10/Laura_Stigliano_NLLT_Manuscript_Oct18.pdf

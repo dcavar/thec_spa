@@ -1,0 +1,95 @@
+# sluicing.txt
+# (C) 2023 by Shane Sparks <sparkssh@iu.edu>, Calvin Josenhans <cjosenha@iu.edu>
+# language: esp
+# Notes:
+# These are all grammatical examples. The elided positions are indicated by ___.
+
+Sonia habló con alguien, pero no sé con quién ___.
+----
+Sonia habló con alguien, pero no sé con quién habló.
+# Laura Stigliano: https://bpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/5/1040/files/2021/10/Laura_Stigliano_NLLT_Manuscript_Oct18.pdf
+
+Sonia habló con alguien, pero no sé quién ___.
+----
+Sonia habló con alguien, pero no sé quién con el que habló.
+# Laura Stigliano: https://bpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/5/1040/files/2021/10/Laura_Stigliano_NLLT_Manuscript_Oct18.pdf
+
+Sonia habló con una chica, pero no sé con cuál ___.
+----
+Sonia habló con una chica, pero no sé con cuál chica habló.
+# Laura Stigliano: https://bpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/5/1040/files/2021/10/Laura_Stigliano_NLLT_Manuscript_Oct18.pdf
+
+Sonia habló con una chica, pero no sé cuál ___.
+----
+Sonia habló con una chica, pero no sé cuál es la chica con la que habló.
+# Laura Stigliano: https://bpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/5/1040/files/2021/10/Laura_Stigliano_NLLT_Manuscript_Oct18.pdf
+
+Sonia habló con dos chicas, pero no sé con cuántos chicos ___.
+----
+Sonia habló con dos chicas, pero no sé con cuántos chicos habló.
+# Laura Stigliano: https://bpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/5/1040/files/2021/10/Laura_Stigliano_NLLT_Manuscript_Oct18.pdf
+
+Sonia habló con dos chicas, pero no sé cuántos chicos ___.
+----
+Sonia habló con dos chicas, pero no sé cuántos chicos con los que habló.
+# Laura Stigliano: https://bpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/5/1040/files/2021/10/Laura_Stigliano_NLLT_Manuscript_Oct18.pdf
+
+Sé con qué chica habló Sonia, pero no sé qué chico es ___ con el que habló.
+----
+Sé con qué chica habló Sonia, pero no sé qué chico es el chico con el que habló.
+# Laura Stigliano: https://bpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/5/1040/files/2021/10/Laura_Stigliano_NLLT_Manuscript_Oct18.pdf
+
+¿ ___ quién, por ejemplo?
+----
+¿Debería hablar con quién, por ejemplo?
+B: Deberías hablar con alguien sobre tus problemas financieros.
+# Laura Stigliano: https://knowledge.uchicago.edu/record/4790?ln=en
+
+¿ ___ con quién, por ejemplo?
+----
+¿Debería hablar con quién, por ejemplo?
+B: Deberías hablar con alguien sobre tus problemas financieros.
+# Laura Stigliano: https://knowledge.uchicago.edu/record/4790?ln=en
+
+Sonia tiene cinco gatos, pero no sé cuántos perros ___.
+----
+Sonia tiene cinco gatos, pero no sé cuántos perros tiene.
+# Laura Stigliano: https://knowledge.uchicago.edu/record/4790?ln=en
+
+Sé cuántos gatos tiene Sonia, pero no sé cuántos perros ___.
+----
+Sé cuántos gatos tiene Sonia, pero no sé cuántos perros tiene.
+# Laura Stigliano: https://knowledge.uchicago.edu/record/4790?ln=en
+
+Sonia vio a alguien, pero no sé a quién ___.
+----
+Sonia vio a alguien, pero no sé a quién vio.
+# Laura Stigliano: https://knowledge.uchicago.edu/record/4790?ln=en
+
+Sonia está leyendo, pero no sé a qué autor ___.
+----
+Sonia está leyendo, pero no sé a qué autor está leyendo.
+# Laura Stigliano: https://knowledge.uchicago.edu/record/4790?ln=en
+
+Sonia está leyendo, pero no sé qué libro ___.
+----
+Sonia está leyendo, pero no sé qué libro está leyendo.
+# Laura Stigliano: https://knowledge.uchicago.edu/record/4790?ln=en
+
+¿Para que ___?
+----
+¿Para que ha ido María a Washington?
+B: Dicen que María ha ido a Washington
+# Source: https://www.academia.edu/95144850/Elipsis_como_un_recurso_de_econom%C3%ADa_ling%C3%BC%C3%ADstica_en_espa%C3%B1ol_franc%C3%A9s_y_polaco
+# translation eng: Why (did Maria go to Washington)?
+
+Y además tienen múltiples facetas, porque hay muchas cotizaciones de dólar. Ya ni sé cuántas ___ hay", me dice Patricio Barton, comunicador y conductor de programas de radio.
+----
+Y además tienen múltiples facetas, porque hay muchas cotizaciones de dólar. Ya ni sé cuántas cotizaciones de dólar hay", me dice Patricio Barton, comunicador y conductor de programas de radio.
+# Source: https://www.bbc.com/mundo/articles/c2l38zg0xjdo
+
+Maria ha comprado algunos dulces pero no sé cuántos ___.
+----
+Maria ha comprado algunos dulces pero no sé cuántos dulces ha comprado.
+# Calvin Josenhans
+# Translation: Maria had bought some sweets, but I don't know how many (sweets she bought).

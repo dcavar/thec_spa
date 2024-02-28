@@ -1,0 +1,104 @@
+# answer_ellipsis.txt
+# (C) 2023 by Shane Sparks <sparkssh@iu.edu>, Calvin Josenhans <cjosenha@iu.edu>
+# language: esp
+# Notes:
+# These are all grammatical examples. The elided positions are indicated by ___.
+
+___ Ningúna de la últimas.
+----
+No vio ninguna de la últimas.
+B: ¿Qué películas de Scorsese no vio?
+# Laura Stigliano: https://bpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/5/1040/files/2021/10/Laura_Stigliano_NLLT_Manuscript_Oct18.pdf
+
+Sí, la ___ de los otros.
+----
+Sí, la foto de los otros.
+B: A cada uno le gustan las fotos de alguien.
+# Laura Stigliano: https://bpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/5/1040/files/2021/10/Laura_Stigliano_NLLT_Manuscript_Oct18.pdf
+
+___ las ___ de los otros.
+----
+A Cada uno le gustan las fotos de los otros.
+B: ¿Qué fotos le gustan a cada uno?
+# Laura Stigliano: https://bpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/5/1040/files/2021/10/Laura_Stigliano_NLLT_Manuscript_Oct18.pdf
+
+Sí, ___ en la casa de Sonia.
+----
+Sí, ella vive en la casa de Sonia.
+B: Escuché que vive en un lugar increíble.
+# Laura Stigliano: https://bpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/5/1040/files/2021/10/Laura_Stigliano_NLLT_Manuscript_Oct18.pdf
+
+Sí, ___ ellipsis.
+----
+Sí, Sonia habló sobre ellipsis.
+B: Escuché que Sonia habló sobre un tema interesante.
+# Laura Stigliano: https://knowledge.uchicago.edu/record/4790?ln=en
+
+Sí, ___ sobre ellipsis.
+----
+Sí, Sonia habló sobre ellipsis.
+B: Escuché que Sonia habló sobre un tema interesante.
+# Laura Stigliano: https://knowledge.uchicago.edu/record/4790?ln=en
+
+Sí, ___ Bruno.
+----
+Sí, Sonia habló con Bruno.
+B: Escuché que Sonia habló con un chico.
+# Laura Stigliano: https://knowledge.uchicago.edu/record/4790?ln=en
+
+Sí, ___ con Bruno.
+----
+Sí, Sonia habló con Bruno.
+B: Escuché que Sonia habló con un chico.
+# Laura Stigliano: https://knowledge.uchicago.edu/record/4790?ln=en
+
+___ Bruno.
+----
+Sonia habló con Bruno.
+B: ¿Con quién habló Sonia?
+
+___ toma ___.
+----
+Toma los exámenes.
+B: ¿Y su asistente?
+B: El profesor corrige los exámenes.
+# Source: https://www.udep.edu.pe/castellanoactual/la-elipsis-de-la-sintaxis-a-la-narracion/
+# translation eng: (The assistant) takes (the exams)
+
+Sí, ___ algunas ___.
+----
+Sí, tengo algunas ideas geniales.
+B: ¿Tienes ideas geniales?
+# Calvin Josenhans
+# translation eng: Yes, (I have) some (cool ideas).
+
+­___ En mil novecientos sesenta y ocho.
+----
+Nacé ­en mil novecientos sesenta y ocho.
+B: ­¿En qué año naciste, Mauricio?
+# Source: https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0071-17132002003700007
+
+___ Diecinueve años.
+----
+Tengo diecinueve años.
+B: ¿Qué edad tienes?
+# Source: https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0071-17132002003700007
+
+___ Estudiar veterinaria.
+----
+Me gustaría estudiar veterinaria.
+B: ¿Qué te gustaría hacer cuando salgas del colegio?
+# Source: https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0071-17132002003700007
+
+No se atrevió ___.
+----
+No se atrevió obligarme a pedirle excusas.
+B: Te obligó a pedirle excusas?     
+# Source: https://riuma.uma.es/xmlui/bitstream/handle/10630/5130/TDR_GARCIA_RODRIGUEZ.pdf?sequence=1
+# translation eng: He didn't dare (force me to apologize).
+
+___ el ___ de Física.
+----
+Necesito el libro de Física.
+B: ¿Necesitas el libro de Química o el libro de Física?
+# M. Emma Ticio: http://www.lingref.com/cpp/hls/7/paper1093.pdf (added context by Shane Sparks)

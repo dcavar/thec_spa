@@ -1,0 +1,259 @@
+# NP_ellipsis.txt
+# (C) 2023 by Shane Sparks <sparkssh@iu.edu>, Calvin Josenhans <cjosenha@iu.edu>
+# language: esp
+# Notes:
+# These are all grammatical examples. The elided positions are indicated by ___.
+
+Compramos muchos libros y tú compraste algunos ___.
+----
+Compramos muchos libros y tú compraste algunos libros.
+# M. Emma Ticio: http://www.lingref.com/cpp/hls/7/paper1093.pdf
+
+Compramos bastantes libros y tú compraste tres ___.
+----
+Compramos bastantes libros y tú compraste tres libros.
+# M. Emma Ticio: http://www.lingref.com/cpp/hls/7/paper1093.pdf
+
+Compramos muchos libros de Física y tú compraste uno ___.
+----
+Compramos muchos libros de Física y tú compraste un libro de Física.
+# M. Emma Ticio: http://www.lingref.com/cpp/hls/7/paper1093.pdf
+
+Compramos muchas reproducciones de las Meninas de Velázquez de este coleccionista y tú compraste algunas ___.
+----
+Compramos muchas reproducciones de las Meninas de Velázquez de este coleccionista y tú compraste algunas reproducciones de las Meninas de Velázquez de este coleccionista.
+# M. Emma Ticio: http://www.lingref.com/cpp/hls/7/paper1093.pdf
+
+Compramos muchos libros de Física y tú compraste algunos ___ de Química.
+----
+Compramos muchos libros de Física y tú compraste algunos libros de Química.
+# M. Emma Ticio: http://www.lingref.com/cpp/hls/7/paper1093.pdf
+
+Compramos bastantes libros de Ana y tú compraste uno ___ de Pepe.
+----
+Compramos bastantes libros de Ana y tú compraste un libro de Pepe.
+# M. Emma Ticio: http://www.lingref.com/cpp/hls/7/paper1093.pdf
+
+Compramos estos libros con pastas azules y tú compraste ésos ___ con pastas rojas.
+----
+Compramos estos libros con pastas azules y tú compraste ésos libros con pastas rojas.
+# M. Emma Ticio: http://www.lingref.com/cpp/hls/7/paper1093.pdf
+
+Ayer vi la casa azul y la ___ verde.
+----
+Ayer vi la casa azul y la casa verde.
+# M. Emma Ticio: http://www.lingref.com/cpp/hls/7/paper1093.pdf
+
+Compramos el libro de Física de María y tú compraste el ___ de Juan de Química.
+----
+Compramos el libro de Física de María y tú compraste el libro de Juan de Química.
+# M. Emma Ticio: http://www.lingref.com/cpp/hls/7/paper1093.pdf
+
+Vimos la invasión de Irak de los EEUU y tú viste la ___ de Chechenia de Rusia.
+----
+Vimos la invasión de Irak de los EEUU y tú viste la invasión de Chechenia de Rusia.
+# M. Emma Ticio: http://www.lingref.com/cpp/hls/7/paper1093.pdf
+
+Ayer vi varias casas azules y alguna ___ verde.
+----
+Ayer vi varias casas azules y alguna casa verde.
+# M. Emma Ticio: http://www.lingref.com/cpp/hls/7/paper1093.pdf
+
+Compramos muchos libros de Física y tú compraste algunos ___.
+----
+Compramos muchos libros de Física y tú compraste algunos libros de Física.
+# M. Emma Ticio: http://www.lingref.com/cpp/hls/7/paper1093.pdf
+
+Dame el libro verde y quédate el ___ azul.
+----
+Dame el libro verde y quédate el libro azul.
+# M. Emma Ticio: http://www.lingref.com/cpp/hls/7/paper1093.pdf
+
+Me quedo el ___ de pastas azules.
+----
+Me quedo el libro de pastas azules.
+# M. Emma Ticio: http://www.lingref.com/cpp/hls/7/paper1093.pdf
+
+Juan compró ese libro y Pedro compró éste ___.
+----
+Juan compró ese libro y Pedro compró éste libro.
+# M. Emma Ticio: http://www.lingref.com/cpp/hls/7/paper1093.pdf
+
+Me gusta el rojo.
+----
+Me gusta el libro rojo.
+B: Tenemos un libro rojo y un libro amarillo.
+# M. Emma Ticio: http://www.lingref.com/cpp/hls/7/paper1093.pdf (added context by Shane Sparks)
+
+Compramos bastantes libros para regalo y uno ___ para consulta.
+----
+Compramos bastantes libros para regalo y un libro para consulta.
+# M. Emma Ticio: http://www.lingref.com/cpp/hls/7/paper1093.pdf
+
+Compramos varios libros azules y uno ___ rojo.
+----
+Compramos varios libros azules y un libro rojo.
+# M. Emma Ticio: http://www.lingref.com/cpp/hls/7/paper1093.pdf
+
+Compramos varios libros de Luis y uno ___ de María.
+----
+Compramos varios libros de Luis y un libro de María.
+# M. Emma Ticio: http://www.lingref.com/cpp/hls/7/paper1093.pdf
+
+Compramos varios libros de Cervantes y uno ___ de Borges.
+----
+Compramos varios libros de Cervantes y un libro de Borges.
+# M. Emma Ticio: http://www.lingref.com/cpp/hls/7/paper1093.pdf
+
+Compramos varias novelas policiacas y una ___ romántica.
+----
+Compramos varias novelas policiacas y una novela romántica.
+# M. Emma Ticio: http://www.lingref.com/cpp/hls/7/paper1093.pdf
+
+Compramos varios libros de Matemáticas y alguno ___ de Física.
+----
+Compramos varios libros de Matemáticas y algun libro de Física.
+# M. Emma Ticio: http://www.lingref.com/cpp/hls/7/paper1093.pdf
+
+Compramos el libro de Física de María y tú compraste el ___ de Química de Juan.
+----
+Compramos el libro de Física de María y tú compraste el libro de Química de Juan.
+# M. Emma Ticio: http://www.lingref.com/cpp/hls/7/paper1093.pdf
+
+Compramos el libro de Física de María y tú compraste el ___ de Juan de Química.
+----
+Compramos el libro de Física de María y tú compraste el libro de Juan de Química.
+# M. Emma Ticio: http://www.lingref.com/cpp/hls/7/paper1093.pdf
+
+Vimos la invasión de Irak de los US y tú viste la ___ de Chechenia de Rusia.
+----
+Vimos la invasión de Irak de los US y tú viste la invasión de Chechenia de Rusia.
+# M. Emma Ticio: http://www.lingref.com/cpp/hls/7/paper1093.pdf
+
+Vimos la invasión de Irak de los US y tú viste la ___ de Rusia de Chechenia.
+----
+Vimos la invasión de Irak de los US y tú viste la invasión de Rusia de Chechenia.
+# M. Emma Ticio: http://www.lingref.com/cpp/hls/7/paper1093.pdf
+
+Varios ___ de Física de Juan.
+----
+Varios libros de Física de Juan.
+B: ¿Prefieres varios libros de Física de Juan o varios libros de Luis de Química?
+# M. Emma Ticio: http://www.lingref.com/cpp/hls/7/paper1093.pdf (added context by Shane Sparks)
+
+La ___ de gafas.
+----
+La chica de gafas.
+B: ¿Conoces al chico de pelo corto o a la chica de gafas?
+# M. Emma Ticio: http://www.lingref.com/cpp/hls/7/paper1093.pdf (added context by Shane Sparks)
+
+Las tres ___ con gafas.
+----
+Las tres chicas con gafas.
+B: ¿Conoces a los chicos de pelo corto o a las chicas de gafas?
+# M. Emma Ticio: http://www.lingref.com/cpp/hls/7/paper1093.pdf (added context by Shane Sparks)
+
+Me da el helado de coco y el ___ de limón.
+----
+Me da el helado de coco y el helado de limón.
+# Source: https://www.udep.edu.pe/castellanoactual/la-elipsis-de-la-sintaxis-a-la-narracion/
+# translation eng: He gave me the chocolate ice cream and the Lemon (ice cream).
+
+Aquí tienes tus llaves. No se te olviden ___.
+----
+Aquí tienes tus llaves. No se te olviden tus llaves.
+# Source: https://languagetool.org/insights/es/publicacion/elipsis-definicion-y-ejemplos/
+# translation eng: You have your keys here. Don't forget (your keys).
+
+Más vale pájaro en mano que cien ___ volando.
+----
+Más vale pájaro en mano que cien pájaros volando.
+# Source: https://languagetool.org/insights/es/publicacion/elipsis-definicion-y-ejemplos/
+# translation eng: A bird in the hand is better than a hundred (birds) flying.
+
+Antes bebía cerveza alemana y ahora solo bebo ___ española.
+----
+Antes bebía cerveza alemana y ahora solo bebo cerveza española.
+# Source: https://www.sciencedirect.com/science/article/pii/S0024384109001284
+
+Al principio llegaron estudiantes de físicas y luego llegaron ___ de químicas.
+----
+Al principio llegaron estudiantes de físicas y luego llegaron estudiantes de químicas.
+# Source: https://www.sciencedirect.com/science/article/pii/S0024384109001284
+
+Aquí crecen árboles grandes y ahí crecen ___ pequñeos.
+----
+Aquí crecen árboles grandes y ahí crecen árboles pequñeos.
+# Source: https://www.sciencedirect.com/science/article/pii/S0024384109001284
+
+No compró manzanas verdes, pero llenó el cesto de ___ rojas.
+----
+No compró manzanas verdes, pero llenó el cesto de manzanas rojas.
+# Source: https://www.sciencedirect.com/science/article/pii/S0024384109001284
+
+Es mucho más facil cortar la carne con cuchillos buenos que con ___ malos.
+----
+Es mucho más facil cortar la carne con cuchillos buenos que con cuhillos malos.
+# Source: https://www.sciencedirect.com/science/article/pii/S0024384109001284
+
+Bebe demasiada cerveza y debería beber menos ___.
+----
+Bebe demasiada cerveza y debería beber menos cerveza.
+# Source: https://www.sciencedirect.com/science/article/pii/S0024384109001284
+
+He conocido a los estudiantes de Paris y el ___ de Madrid.
+----
+He conocido a los estudiantes de Paris y el estudiante de Madrid.
+# Source: https://www.sciencedirect.com/science/article/pii/S0024384109001284
+
+El comía algunas verduras, pero quería comer más ___.
+----
+El comía algunas verduras, pero quería comer más verduras.
+# Calvin Josenhans
+# translation eng: He ate a few vegetables, but he wanted to eat more (vegetables).
+
+La mayoría de los pacientes no vive más allá de los 40 ___ o los 50 años.
+----
+La mayoría de los pacientes no vive más allá de los 40 años o los 50 años.
+# Source: https://elpais.com/ciencia/2023-10-31/la-agencia-del-medicamento-de-ee-uu-abre-la-puerta-al-primer-tratamiento-con-edicion-genetica-crispr.html
+
+Se repitió la mayoría de 5 votos contra 2 ___ que tomó una decisión idéntica un mes atrás.
+----
+Se repitió la mayoría de 5 votos contra 2 votos que tomó una decisión idéntica un mes atrás.
+# Source: https://elpais.com/america-colombia/2023-11-01/el-banco-de-la-republica-mantiene-la-tasa-de-interes-de-referencia-en-1325.html
+
+En entrevista con BBC Mundo, Luzzi explica que el dólar tiene dos vidas en Argentina. Una ___ privada, que es su condición de moneda con la que los argentinos ahorran ___ o adquieren bienes como casas o departamentos; y otra ___ pública que ella considera más importante.
+----
+En entrevista con BBC Mundo, Luzzi explica que el dólar tiene dos vidas en Argentina. Una vida privada, que es su condición de moneda con la que los argentinos ahorran bienes o adquieren bienes como casas o departamentos; y otra vida pública que ella considera más importante.
+# Source: https://www.bbc.com/mundo/articles/c2l38zg0xjdo
+
+La lexicalización quiere decir que una palabra que tenía un significado adquirió otro ___ completamente distinto.
+----
+La lexicalización quiere decir que una palabra que tenía un significado adquirió otro significado completamente distinto.
+# Source: https://www.bbc.com/mundo/articles/c2l38zg0xjdo
+
+El nuevo rey es el ___ más joven del país.
+----
+El nuevo rey es el rey más joven del país.
+# Source: https://zenodo.org/records/3547446
+
+Fijó sus metas pronto y siguió ___ hasta el final.
+----
+Fijó sus metas pronto y siguió sus metas hasta el final.
+# Source: https://zenodo.org/records/3547446
+
+Los turistas llegaron ayer. ¿Dónde están ___?
+----
+Los turistas llegaron ayer. ¿Dónde están los turistas?
+# https://www.spanishpodcast.net/how-to-use-the-ellipsis-in-spanish/
+
+Me gusta el violín. A mi hermana no le gusta ___.
+----
+Me gusta el violín. A mi hermana no le gusta el violín.
+# https://www.spanishpodcast.net/how-to-use-the-ellipsis-in-spanish/
+
+La plenaria ha eliminado 8 artículos y restan 63 ___.
+----
+La plenaria ha eliminado 8 artículos y restan 63 artículos.
+# https://elpais.com/america-colombia/2023-11-16/uribe-acepta-con-condiciones-el-cafe-que-le-ofrece-petro-para-salvar-la-reforma-a-la-salud.html
+

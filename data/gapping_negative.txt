@@ -1,0 +1,13 @@
+# gapping_negative.txt
+# (C) 2023 by Damir Cavar <dcavar@iu.edu>
+# language: spa
+# Notes:
+# The constructions with gapping are all ungrammatical. The full forms are all grammatical.
+# The assumed elided positions are indicated by ___.
+
+Juan fue al cine hoy y Ana ___ teatro mañana. 
+----
+Juan fue al cine hoy y Ana va a ir teatro mañana.
+#Source: Jung, Wonsuk. (2022). Phasehood and embedded gapping in Spanish. Glossa: a journal of general linguistics. 7. 10.16995/glossa.7993. 
+#Translation: Juan went to the cinema today and Ana will go to the theather tomorrow. 
+# Note: Gapping does not tolerate tense mismatch between the ellipsis site and the antecedent

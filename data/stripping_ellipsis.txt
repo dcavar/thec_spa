@@ -1,0 +1,56 @@
+# stripping_ellipsis.txt
+# (C) 2023 by Shane Sparks <sparkssh@iu.edu>
+# language: esp
+# Notes:
+# These are all grammatical examples. The elided positions are indicated by ___.
+
+Sonia leyó El Aleph, pero no ___ Ficciones.
+----
+Sonia leyó El Aleph, pero no leyó Ficciones.
+# Laura Stigliano: https://bpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/5/1040/files/2021/10/Laura_Stigliano_NLLT_Manuscript_Oct18.pdf
+
+Sonia habló con Bruno, pero ___ no con Luciano.
+----
+Sonia habló con Bruno, pero Sonia no habló con Luciano.
+# Laura Stigliano: https://bpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/5/1040/files/2021/10/Laura_Stigliano_NLLT_Manuscript_Oct18.pdf
+
+Hablé con Bruno, no ___ con Luciano.
+----
+Hablé con Bruno, no hablé con Luciano.
+# Laura Stigliano: https://bpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/5/1040/files/2021/10/Laura_Stigliano_NLLT_Manuscript_Oct18.pdf
+
+Sonia habló con Bruno, no ___ conmigo.
+----
+Sonia habló con Bruno, no habló conmigo.
+# Laura Stigliano: https://knowledge.uchicago.edu/record/4790?ln=en
+
+Habló con alguien sobre algo pero no sé sobre qué ___ con quién.
+----
+Habló con alguien sobre algo pero no sé sobre qué habló con quién.
+# Laura Stigliano: https://knowledge.uchicago.edu/record/4790?ln=en
+
+Habló sobre algo con alguien pero no sé qué ___ con quién.
+----
+Habló con alguien sobre algo pero no sé qué habló con quién.
+# Laura Stigliano: https://knowledge.uchicago.edu/record/4790?ln=en
+
+Sonia comió pizza, pero no sé Bruno ___.
+----
+Sonia comió pizza, pero no sé Bruno si comió pizza.
+# Laura Stigliano: https://knowledge.uchicago.edu/record/4790?ln=en
+
+María quiere estudiar física, y Juan cree ___ Luis también quiere estudiar física.
+----
+María quiere estudiar física, y Juan cree que Luis también quiere estudiar física.
+#Source: Jung, Wonsuk. (2022). Phasehood and embedded gapping in Spanish. Glossa: a journal of general linguistics. 7. 10.16995/glossa.7993. 
+#Translation: María wants to study physics, and Juan thinks that Luis wants to study physics too.
+
+Juan leyó El Quijote pero María no ___.
+----
+Juan leyó El Quijote pero María no leyó El Quijote.
+# Source: Depiante MA. The syntax of deep and surface anaphora: A study of null complement anaphora and stripping /bare argument ellipsis. University of Connecticut; 2000.
+
+Juan leyó El Quijote pero "Hamlet" no ___.
+----
+Juan leyó Don Quijote pero "Hamlet" no leyó Juan.
+# Source: Depiante MA. The syntax of deep and surface anaphora: A study of null complement anaphora and stripping /bare argument ellipsis. University of Connecticut; 2000.
