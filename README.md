@@ -11,6 +11,6 @@ Narrative
 
 ## Maintainer
 - Calvin J.
-- Louis E.
+- Louis A.
 - Damir Cavar
 
