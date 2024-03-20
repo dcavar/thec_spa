@@ -79,7 +79,7 @@ Juan compró ese libro y Pedro compró éste ___.
 Juan compró ese libro y Pedro compró éste libro.
 # M. Emma Ticio: http://www.lingref.com/cpp/hls/7/paper1093.pdf
 
-Me gusta el rojo.
+Me gusta el ___ rojo.
 ----
 Me gusta el libro rojo.
 B: Tenemos un libro rojo y un libro amarillo.
