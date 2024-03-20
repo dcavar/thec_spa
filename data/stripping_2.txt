@@ -1,0 +1,43 @@
+#stripping_2.txt
+# (C) 2023 by Calvin Josenhans <cjosenha@iu.edu>
+# language: esp
+# Source: Villa-García, Julio. "TP-ellipsis with a polarity particle in multiple-complementizer contexts in Spanish: On topical remnants and focal licensors." Borealis–An International Journal of Hispanic Linguistics 5.2 (2016): 135-172.
+# Notes:
+# These are all grammatical examples. The elided positions are indicated by ___.
+
+Dice que conmigo, que no va, y que contigo, que tampoco ___.
+----
+Dice que conmigo, que no va, y que contigo, que tampoco va.
+
+Al perro lo pasearon, y al gato también ___.
+----
+Al perro lo pasearon, y al gato también lo pasearon.
+
+Tú sabrás mucho de guerras y hombradas, pero de esto no ___.
+----
+Tú sabrás mucho de guerras y hombradas, pero de esto no sabrás mucho.
+
+¡Yo también ___!
+----
+¡Yo también tengo frío!
+B: ¡Tengo frío!
+
+Quizás tú no ___, pero yo pienso votar a Podemos.
+----
+Quizás tú no pienses votar a Podemos, pero yo pienso votar a Podemos.
+
+Él piensa que María tiene razón, pero yo no ___.
+----
+Él piensa que María tiene razón, pero yo no tengo razón.
+
+Él piensa que María tiene razón, pero yo no ___.
+----
+Él piensa que María tiene razón, pero yo no pienso que María tiene razón.
+
+Juan va a ir a Liverpool, y me dijeron que a Londres también ___.
+----
+Juan va a ir a Liverpool, y me dijeron que a Londres también va a ir.
+
+María dice que a Pedro lo traen, pero que a Joaquín no ___.
+----
+María dice que a Pedro lo traen, pero que a Joaquín no lo traen.

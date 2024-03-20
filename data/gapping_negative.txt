@@ -11,3 +11,15 @@ Juan fue al cine hoy y Ana va a ir teatro mañana.
 #Source: Jung, Wonsuk. (2022). Phasehood and embedded gapping in Spanish. Glossa: a journal of general linguistics. 7. 10.16995/glossa.7993. 
 #Translation: Juan went to the cinema today and Ana will go to the theather tomorrow. 
 # Note: Gapping does not tolerate tense mismatch between the ellipsis site and the antecedent
+
+Escribí la carta a Luisa y la ___ a Cristina.
+----
+Escribí la carta a Luisa y la carta a Cristina.
+# Source: Kester, Ellen-Petra, and Petra Sleeman. "N-ellipsis in Spanish." Linguistics in the Netherlands 19.1 (2002): 107-116.
+# Note: NP ellipsis is ungrammatical when the modifier isn't introduced by 'de'
+
+Compré el regalo para Isabel y el ___ para Jaime.
+----
+Compré el regalo para Isabel y el regalo para Jaime.
+# Source: Kester, Ellen-Petra, and Petra Sleeman. "N-ellipsis in Spanish." Linguistics in the Netherlands 19.1 (2002): 107-116.
+# Note: NP ellipsis is ungrammatical when the modifier isn't introduced by 'de'

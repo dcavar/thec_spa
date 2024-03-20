@@ -1,0 +1,46 @@
+#nominal_2.txt
+# (C) 2023 by Calvin Josenhans <cjosenha@iu.edu>
+# language: esp
+# Source: Kester, Ellen-Petra, and Petra Sleeman. "N-ellipsis in Spanish." Linguistics in the Netherlands 19.1 (2002): 107-116. 
+# Notes:
+# These are all grammatical examples. The elided positions are indicated by ___.
+
+Compré la falda negra y la ___ amarilla.
+----
+Compré la falda negra y la falda amarilla.
+
+He leido el libro de Joaquín y el ___ de Cristina.
+----
+He leido el libro de Joaquín y el ___ de Cristina.
+
+Conozco la hermana de Juan y la ___ de María.
+----
+Conozco la hermana de Juan y la hermana de María.
+
+Escribí la carta de Juan a Luisa y la ___ de Jaime a Cristina.
+----
+Escribí la carta de Juan a Luisa y la carta de Jaime a Cristina.
+
+Ella compró el regalo barato para Isabel y el ___ caro para Jaime.
+----
+Ella compró el regalo barato para Isabel y el regalo caro para Jaime.
+
+Vimos la casa que te gustaba y la ___ que no te gustaba.
+----
+Vimos la casa que te gustaba y la casa que no te gustaba.
+
+Había el libro que leyó Jaime y el ___ que nos regaló tu padre.
+----
+Había el libro que leyó Jaime y el libro que nos regaló tu padre.
+
+Había el libro aburrido que leyó Jaime y el ___ interesante con el que soñaste anoche.
+----
+Había el libro aburrido que leyó Jaime y el libro interesante con el que soñaste anoche.
+
+Escribí esa carta a Luisa y ésta ___ a Cristina.
+----
+Escribí esa carta a Luisa y ésta carta a Cristina.
+
+Compré dos regalos para Isabel y muchos ___ para Jaime.
+----
+Compré dos regalos para Isabel y muchos regalos para Jaime.
