@@ -10,7 +10,7 @@ Narrative
 
 
 ## Maintainer
-- Calvin J.
+- Calvin Josenhans
 - Louis A.
 - Damir Cavar
 
