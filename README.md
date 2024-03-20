@@ -18,8 +18,9 @@ Narrative
 
 ## Maintainer
 - Calvin Josenhans
-- Louis A.
-- Damir Cavar
+- Louis Abrego
+- Jose Benavides
+- [Damir Cavar]
 
 
 
