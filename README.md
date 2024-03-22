@@ -9,11 +9,8 @@ This repo contains the Spanish Ellipsis Sub-corpus of THEC.
 Consult the [data format specification](https://nlp-lab.org/ellipsis/data_format) for details about the structure of the files and the annotation standard used.
 
 
-
-
 Narrative
 - generic ellipsis corpus about...
-
 
 
 ## Maintainer
@@ -21,7 +18,6 @@ Narrative
 - Louis Abrego
 - Jose Benavides
 - [Damir Cavar]
-
 
 
 ## Citation
@@ -43,7 +39,6 @@ Please use the following snippet to cite our work.
     abstract = "State-of-the-art (SotA) Natural Language Processing (NLP) technology faces significant challenges with constructions that contain ellipses. Although theoretically well-documented and understood, there needs to be more sufficient cross-linguistic language resources to document, study, and ultimately engineer NLP solutions that can adequately provide analyses for ellipsis constructions. This article describes the typological data set on ellipsis that we created for currently seventeen languages. We demonstrate how SotA parsers based on a variety of syntactic frameworks fail to parse sentences with ellipsis, and in fact, probabilistic, neural, and Large Language Models (LLM) do so, too. We demonstrate experiments that focus on detecting sentences with ellipsis, predicting the position of elided elements, and predicting elided surface forms in the appropriate positions. We show that cross-linguistic variation of ellipsis-related phenomena has different consequences for the architecture of NLP systems.",
 }
 ```
-
 
 [Damir Cavar]: http://damir.cavar.me/ "Damir Cavar"
 [Hoosier Ellipsis Corpus]: https://nlp-lab.org/ellipsis/ "Hoosier Ellipsis Corpus"
