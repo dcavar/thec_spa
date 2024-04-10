@@ -78,3 +78,12 @@ Laura me sonrió. A Jorge no ___.
 Laura me sonrió. A Jorge no le sonrió.
 # https://www.spanishpodcast.net/how-to-use-the-ellipsis-in-spanish/
 
+El presidente "se apoya en el estatuto dudoso de los contenidos propios de las redes y también ___ en el anonimato."
+----
+El presidente "se apoya en el estatuto dudoso de los contenidos propios de las redes y también el presidente se apoya en el anonimato."
+# https://cnnespanol.cnn.com/2024/03/02/javier-milei-presidente-troll-redes-sociales-orix-arg/
+
+En la misma línea opina Slimovich: "Los discursos de odio pueden tener un anclaje en el espacio urbano. Y ___ generar también estas oleadas de acoso que pueden empezar con un acoso digital, pero que tampoco quiere decir que sea menor".
+----
+En la misma línea opina Slimovich: "Los discursos de odio pueden tener un anclaje en el espacio urbano. Y pueden generar también estas oleadas de acoso que pueden empezar con un acoso digital, pero que tampoco quiere decir que sea menor".
+# https://cnnespanol.cnn.com/2024/03/02/javier-milei-presidente-troll-redes-sociales-orix-arg/

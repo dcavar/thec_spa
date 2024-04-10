@@ -199,3 +199,8 @@ Carlos ve una película. Yo ___ un documental
 ----
 Carlos ve una película. Yo veo un documental
 # https://www.spanishpodcast.net/how-to-use-the-ellipsis-in-spanish/
+
+Fue así como el oro volvió al dueño y el caballo ___ al establo.
+----
+Fue así como el oro volvió al dueño y el caballo volvió al establo.
+# https://arbolabc.com/fabulas-para-ni%C3%B1os/el-oro-y-las-ratas
